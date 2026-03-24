@@ -1,4 +1,4 @@
-# Real Estate Price Prediction
+# 생성형 AI 기반 뉴스 감성지수를 활용한 부동산 가격 예측 모델
 
 ## 프로젝트 개요
 
