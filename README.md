@@ -78,6 +78,11 @@ real-estate-price-prediction/
 * VAR 분석을 통해 금리, 거래량, GDP 등 주요 변수 간 영향 관계를 해석
 
 ※ 성능 비교 및 수치 결과는 실험 환경에 따라 달라질 수 있습니다.
+...
+
+## 📊 결과 예시
+
+![예측 결과](./result/sample.png)
 
 ---
 
