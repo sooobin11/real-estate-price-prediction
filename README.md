@@ -16,7 +16,7 @@
 ---
 
 ## 🗂 프로젝트 구조
-
+```
 real-estate-price-prediction/
 ├── data/
 ├── notebook/
@@ -27,7 +27,7 @@ real-estate-price-prediction/
 ├── model/
 │ └── house_final.joblib
 └── README.md
-
+```
 ---
 
 ## 📊 데이터 구성
