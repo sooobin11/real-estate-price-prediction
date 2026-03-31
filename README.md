@@ -90,12 +90,20 @@ real-estate-price-prediction/
 
 ## 🛠 사용 기술
 
+### 📌 Programming & Libraries
 * Python
 * Pandas, NumPy
 * Scikit-learn
 * TensorFlow / Keras
 * Statsmodels (VAR)
 * BeautifulSoup (크롤링)
+
+### 📌 Modeling & Methods
+* LSTM (Long Short-Term Memory)
+* Multi-Head Attention
+* VAR (Vector Auto Regression)
+* NLP 기반 텍스트 처리 (KoBART, TextRank)
+* Sentiment Analysis (감성 분석)
 
 ---
 
