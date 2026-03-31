@@ -82,7 +82,7 @@ real-estate-price-prediction/
 
 ## 📊 결과 예시
 
-![모댈 성능 비교](./result/rmse.png)
+![모델 성능 비교](./result/rmse.png)
 → 뉴스 감성지수를 포함한 모델이 전반적으로 RMSE가 낮아  
 예측 성능이 개선된 것을 확인할 수 있음
 
