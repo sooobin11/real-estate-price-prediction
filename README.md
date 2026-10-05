@@ -65,17 +65,12 @@ real-estate-price-prediction/
 - Adam optimizer (learning rate = 1e-3)로 모델 학습
 - RMSE를 기준으로 모델 성능 평가
 
-### 5️⃣ VAR 시계열 분석
-- 경제 지표 간 상호 영향 관계 분석
-- 부동산 가격과 주요 변수 간 관계 해석
-
 ---
 
 ## 📈 주요 결과
 
 * 뉴스 감성지수를 포함한 시계열 데이터 기반 부동산 가격 예측 모델 구축
 * LSTM + Attention 모델을 통해 시계열 패턴 및 중요 시점 반영 가능성 확인
-* VAR 분석을 통해 금리, 거래량, GDP 등 주요 변수 간 영향 관계를 해석
 
 ※ 성능 비교 및 수치 결과는 실험 환경에 따라 달라질 수 있습니다.
 ...
@@ -101,7 +96,6 @@ real-estate-price-prediction/
 ### 📌 Modeling & Methods
 * LSTM (Long Short-Term Memory)
 * Multi-Head Attention
-* VAR (Vector Auto Regression)
 * NLP 기반 텍스트 처리 (KoBART, TextRank)
 * Sentiment Analysis (감성 분석)
 
